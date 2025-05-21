@@ -3,12 +3,12 @@ def test():
 
 if __name__ == "__main__":
     test()
-    test()
-    test()
-    test()
+
     print("Hello, World!")
     print("Hello, World!")
     print("Hello, World!")
+    print("Hello, World!") 
+    print("Hello, World!")    
 
 
 
